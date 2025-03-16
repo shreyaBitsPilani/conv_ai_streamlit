@@ -2,7 +2,7 @@ streamlit
 yfinance
 nltk
 pandas
-numpy<=2
+numpy<2
 scikit-learn
 rank_bm25
 sentence-transformers
