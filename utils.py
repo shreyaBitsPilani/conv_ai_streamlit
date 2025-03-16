@@ -114,17 +114,17 @@ def get_sentences(text: str) -> list:
     Attempt to load the 'punkt_tab' tokenizer.
     If not available, download and load the standard 'punkt' tokenizer.
     """
-    try:
-        # Try loading punkt_tab (if available)
-        tokenizer = nltk.data.load("tokenizers/punkt_tab/english.pickle")
-    except LookupError:
-        nltk.download("punkt", quiet=True)
-        tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
+    nltk.download("punkt", quiet=True)
+    tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
     return tokenizer.tokenize(text)
 
 def split_text_semantic(text: str, max_words=150, overlap_sentences=2, min_words=30) -> list:
     # Use our custom get_sentences function instead of nltk.sent_tokenize
-    sentences = get_sentences(text)
+    try:
+        nltk.data.load("tokenizers/punkt/english.pickle")
+    except LookupError:
+        nltk.download("punkt", quiet=True)
+    sentences = nltk.sent_tokenize(text)
     chunks = []
     cur_chunk = []
     cur_word_count = 0
