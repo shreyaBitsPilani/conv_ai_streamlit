@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+faiss-cpu
+transformers
+sentence-transformers
+rank_bm25
+nltk
+scikit-learn
+numpy
