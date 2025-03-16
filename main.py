@@ -3,6 +3,8 @@ import streamlit as st
 import torch
 # We disable parallel tokenization to prevent concurrency issues
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+import nltk
+nltk.download("punkt")
 
 # Import your utility functions
 from utils import (
