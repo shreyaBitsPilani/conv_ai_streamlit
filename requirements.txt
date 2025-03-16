@@ -9,5 +9,5 @@ rank_bm25
 nltk
 scikit-learn
 numpy
-torch==2.0.1
+torch
 setuptools>=65.5.0
