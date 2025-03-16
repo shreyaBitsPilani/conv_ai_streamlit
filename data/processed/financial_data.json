@@ -1,0 +1,1462 @@
+[
+  {
+    "year": 2023,
+    "finance_parameter": "Treasury Shares Number",
+    "value": 0.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Ordinary Shares Number",
+    "value": 15550061000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Share Issued",
+    "value": 15550061000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Debt",
+    "value": 81123000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Debt",
+    "value": 111088000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Tangible Book Value",
+    "value": 62146000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Invested Capital",
+    "value": 173234000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Working Capital",
+    "value": -1742000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Tangible Assets",
+    "value": 62146000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Capital Lease Obligations",
+    "value": 12842000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Common Stock Equity",
+    "value": 62146000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Capitalization",
+    "value": 157427000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Equity Gross Minority Interest",
+    "value": 62146000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Stockholders Equity",
+    "value": 62146000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Gains Losses Not Affecting Retained Earnings",
+    "value": -11452000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Equity Adjustments",
+    "value": -11452000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Retained Earnings",
+    "value": -214000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Capital Stock",
+    "value": 73812000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Common Stock",
+    "value": 73812000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Liabilities Net Minority Interest",
+    "value": 290437000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Non Current Liabilities Net Minority Interest",
+    "value": 145129000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Non Current Liabilities",
+    "value": 34391000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Tradeand Other Payables Non Current",
+    "value": 15457000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Long Term Debt And Capital Lease Obligation",
+    "value": 95281000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Long Term Capital Lease Obligation",
+    "value": 11267000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Long Term Debt",
+    "value": 95281000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Current Liabilities",
+    "value": 145308000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Current Liabilities",
+    "value": 50010000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Current Deferred Liabilities",
+    "value": 8061000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Current Deferred Revenue",
+    "value": 8061000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Current Debt And Capital Lease Obligation",
+    "value": 15807000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Current Capital Lease Obligation",
+    "value": 1575000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Current Debt",
+    "value": 15807000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Current Borrowings",
+    "value": 9822000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Commercial Paper",
+    "value": 5985000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Payables And Accrued Expenses",
+    "value": 71430000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Payables",
+    "value": 71430000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Tax Payable",
+    "value": 8819000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Income Tax Payable",
+    "value": 8819000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Accounts Payable",
+    "value": 62611000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Assets",
+    "value": 352583000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Non Current Assets",
+    "value": 209017000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Non Current Assets",
+    "value": 46906000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Non Current Deferred Assets",
+    "value": 17852000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Non Current Deferred Taxes Assets",
+    "value": 17852000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Investments And Advances",
+    "value": 100544000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Investmentin Financial Assets",
+    "value": 100544000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Available For Sale Securities",
+    "value": 100544000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net PPE",
+    "value": 43715000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Accumulated Depreciation",
+    "value": -70884000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Gross PPE",
+    "value": 114599000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Leases",
+    "value": 12839000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Properties",
+    "value": 10661000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Machinery Furniture Equipment",
+    "value": 78314000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Land And Improvements",
+    "value": 23446000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Properties",
+    "value": 0.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Current Assets",
+    "value": 143566000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Current Assets",
+    "value": 14695000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Inventory",
+    "value": 6331000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Receivables",
+    "value": 60985000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Receivables",
+    "value": 31477000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Accounts Receivable",
+    "value": 29508000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash Cash Equivalents And Short Term Investments",
+    "value": 61555000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Short Term Investments",
+    "value": 31590000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash And Cash Equivalents",
+    "value": 29965000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash Equivalents",
+    "value": 1606000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash Financial",
+    "value": 28359000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Ordinary Shares Number",
+    "value": 15116786000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Share Issued",
+    "value": 15116786000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Debt",
+    "value": 76686000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Debt",
+    "value": 106629000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Tangible Book Value",
+    "value": 56950000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Invested Capital",
+    "value": 163579000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Working Capital",
+    "value": -23405000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Tangible Assets",
+    "value": 56950000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Common Stock Equity",
+    "value": 56950000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Capitalization",
+    "value": 142700000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Equity Gross Minority Interest",
+    "value": 56950000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Stockholders Equity",
+    "value": 56950000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Gains Losses Not Affecting Retained Earnings",
+    "value": -7172000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Equity Adjustments",
+    "value": -7172000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Retained Earnings",
+    "value": -19154000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Capital Stock",
+    "value": 83276000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Common Stock",
+    "value": 83276000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Liabilities Net Minority Interest",
+    "value": 308030000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Non Current Liabilities Net Minority Interest",
+    "value": 131638000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Non Current Liabilities",
+    "value": 36634000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Tradeand Other Payables Non Current",
+    "value": 9254000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Long Term Debt And Capital Lease Obligation",
+    "value": 85750000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Long Term Debt",
+    "value": 85750000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Current Liabilities",
+    "value": 176392000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Current Liabilities",
+    "value": 51703000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Current Deferred Liabilities",
+    "value": 8249000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Current Deferred Revenue",
+    "value": 8249000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Current Debt And Capital Lease Obligation",
+    "value": 20879000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Current Debt",
+    "value": 20879000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Current Borrowings",
+    "value": 10912000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Commercial Paper",
+    "value": 9967000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Payables And Accrued Expenses",
+    "value": 95561000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Payables",
+    "value": 95561000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Tax Payable",
+    "value": 26601000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Income Tax Payable",
+    "value": 26601000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Accounts Payable",
+    "value": 68960000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Assets",
+    "value": 364980000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Non Current Assets",
+    "value": 211993000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Non Current Assets",
+    "value": 55335000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Non Current Deferred Assets",
+    "value": 19499000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Non Current Deferred Taxes Assets",
+    "value": 19499000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Investments And Advances",
+    "value": 91479000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Investmentin Financial Assets",
+    "value": 91479000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Available For Sale Securities",
+    "value": 91479000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net PPE",
+    "value": 45680000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Accumulated Depreciation",
+    "value": -73448000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Gross PPE",
+    "value": 119128000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Leases",
+    "value": 14233000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Machinery Furniture Equipment",
+    "value": 80205000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Land And Improvements",
+    "value": 24690000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Properties",
+    "value": 0.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Current Assets",
+    "value": 152987000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Current Assets",
+    "value": 14287000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Inventory",
+    "value": 7286000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Receivables",
+    "value": 66243000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Receivables",
+    "value": 32833000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Accounts Receivable",
+    "value": 33410000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash Cash Equivalents And Short Term Investments",
+    "value": 65171000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Short Term Investments",
+    "value": 35228000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash And Cash Equivalents",
+    "value": 29943000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash Equivalents",
+    "value": 2744000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash Financial",
+    "value": 27199000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Free Cash Flow",
+    "value": 99584000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Repurchase Of Capital Stock",
+    "value": -77550000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Repayment Of Debt",
+    "value": -11151000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Issuance Of Debt",
+    "value": 5228000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Capital Expenditure",
+    "value": -10959000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Interest Paid Supplemental Data",
+    "value": 3803000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Income Tax Paid Supplemental Data",
+    "value": 18679000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "End Cash Position",
+    "value": 30737000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Beginning Cash Position",
+    "value": 24977000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Changes In Cash",
+    "value": 5760000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Financing Cash Flow",
+    "value": -108488000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash Flow From Continuing Financing Activities",
+    "value": -108488000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Other Financing Charges",
+    "value": -6012000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash Dividends Paid",
+    "value": -15025000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Common Stock Dividend Paid",
+    "value": -15025000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Common Stock Issuance",
+    "value": -77550000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Common Stock Payments",
+    "value": -77550000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Issuance Payments Of Debt",
+    "value": -9901000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Short Term Debt Issuance",
+    "value": -3978000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Long Term Debt Issuance",
+    "value": -5923000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Long Term Debt Payments",
+    "value": -11151000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Long Term Debt Issuance",
+    "value": 5228000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Investing Cash Flow",
+    "value": 3705000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash Flow From Continuing Investing Activities",
+    "value": 3705000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Other Investing Changes",
+    "value": -1337000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Investment Purchase And Sale",
+    "value": 16001000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Sale Of Investment",
+    "value": 45514000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Purchase Of Investment",
+    "value": -29513000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net PPE Purchase And Sale",
+    "value": -10959000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Purchase Of PPE",
+    "value": -10959000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Operating Cash Flow",
+    "value": 110543000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cash Flow From Continuing Operating Activities",
+    "value": 110543000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Working Capital",
+    "value": -6577000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Other Current Liabilities",
+    "value": 3031000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Other Current Assets",
+    "value": -5684000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Payables And Accrued Expense",
+    "value": -1889000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Payable",
+    "value": -1889000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Account Payable",
+    "value": -1889000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Inventory",
+    "value": -1618000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Change In Receivables",
+    "value": -417000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Changes In Account Receivables",
+    "value": -1688000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Non Cash Items",
+    "value": -2227000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Stock Based Compensation",
+    "value": 10833000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Depreciation Amortization Depletion",
+    "value": 11519000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Depreciation And Amortization",
+    "value": 11519000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Income From Continuing Operations",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Free Cash Flow",
+    "value": 108807000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Repurchase Of Capital Stock",
+    "value": -94949000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Repayment Of Debt",
+    "value": -9958000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Issuance Of Debt",
+    "value": 0.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Capital Expenditure",
+    "value": -9447000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Income Tax Paid Supplemental Data",
+    "value": 26102000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "End Cash Position",
+    "value": 29943000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Beginning Cash Position",
+    "value": 30737000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Changes In Cash",
+    "value": -794000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Financing Cash Flow",
+    "value": -121983000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash Flow From Continuing Financing Activities",
+    "value": -121983000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Other Financing Charges",
+    "value": -5802000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash Dividends Paid",
+    "value": -15234000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Common Stock Dividend Paid",
+    "value": -15234000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Common Stock Issuance",
+    "value": -94949000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Common Stock Payments",
+    "value": -94949000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Issuance Payments Of Debt",
+    "value": -5998000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Short Term Debt Issuance",
+    "value": 3960000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Long Term Debt Issuance",
+    "value": -9958000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Long Term Debt Payments",
+    "value": -9958000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Long Term Debt Issuance",
+    "value": 0.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Investing Cash Flow",
+    "value": 2935000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash Flow From Continuing Investing Activities",
+    "value": 2935000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Other Investing Changes",
+    "value": -1308000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Investment Purchase And Sale",
+    "value": 13690000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Sale Of Investment",
+    "value": 62346000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Purchase Of Investment",
+    "value": -48656000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net PPE Purchase And Sale",
+    "value": -9447000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Purchase Of PPE",
+    "value": -9447000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Operating Cash Flow",
+    "value": 118254000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cash Flow From Continuing Operating Activities",
+    "value": 118254000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Working Capital",
+    "value": 3651000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Other Current Liabilities",
+    "value": 15552000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Other Current Assets",
+    "value": -11731000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Payables And Accrued Expense",
+    "value": 6020000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Payable",
+    "value": 6020000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Account Payable",
+    "value": 6020000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Inventory",
+    "value": -1046000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Change In Receivables",
+    "value": -5144000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Changes In Account Receivables",
+    "value": -3788000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Non Cash Items",
+    "value": -2266000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Stock Based Compensation",
+    "value": 11688000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Depreciation Amortization Depletion",
+    "value": 11445000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Depreciation And Amortization",
+    "value": 11445000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Income From Continuing Operations",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Tax Effect Of Unusual Items",
+    "value": 0.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Tax Rate For Calcs",
+    "value": 0.147
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Normalized EBITDA",
+    "value": 125820000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Income From Continuing Operation Net Minority Interest",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Reconciled Depreciation",
+    "value": 11519000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Reconciled Cost Of Revenue",
+    "value": 214137000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "EBITDA",
+    "value": 125820000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "EBIT",
+    "value": 114301000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Interest Income",
+    "value": -183000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Interest Expense",
+    "value": 3933000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Interest Income",
+    "value": 3750000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Normalized Income",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Income From Continuing And Discontinued Operation",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Expenses",
+    "value": 268984000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Operating Income As Reported",
+    "value": 114301000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Diluted Average Shares",
+    "value": 15812547000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Basic Average Shares",
+    "value": 15744231000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Diluted EPS",
+    "value": 6.13
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Basic EPS",
+    "value": 6.16
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Diluted NI Availto Com Stockholders",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Income Common Stockholders",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Income",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Income Including Noncontrolling Interests",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Income Continuous Operations",
+    "value": 96995000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Tax Provision",
+    "value": 16741000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Pretax Income",
+    "value": 113736000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Income Expense",
+    "value": -565000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Other Non Operating Income Expenses",
+    "value": -565000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Net Non Operating Interest Income Expense",
+    "value": -183000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Interest Expense Non Operating",
+    "value": 3933000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Interest Income Non Operating",
+    "value": 3750000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Operating Income",
+    "value": 114301000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Operating Expense",
+    "value": 54847000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Research And Development",
+    "value": 29915000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Selling General And Administration",
+    "value": 24932000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Gross Profit",
+    "value": 169148000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Cost Of Revenue",
+    "value": 214137000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Total Revenue",
+    "value": 383285000000.0
+  },
+  {
+    "year": 2023,
+    "finance_parameter": "Operating Revenue",
+    "value": 383285000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Tax Effect Of Unusual Items",
+    "value": 0.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Tax Rate For Calcs",
+    "value": 0.241
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Normalized EBITDA",
+    "value": 134661000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Income From Continuing Operation Net Minority Interest",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Reconciled Depreciation",
+    "value": 11445000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Reconciled Cost Of Revenue",
+    "value": 210352000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "EBITDA",
+    "value": 134661000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "EBIT",
+    "value": 123216000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Normalized Income",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Income From Continuing And Discontinued Operation",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Expenses",
+    "value": 267819000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Operating Income As Reported",
+    "value": 123216000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Diluted Average Shares",
+    "value": 15408095000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Basic Average Shares",
+    "value": 15343783000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Diluted EPS",
+    "value": 6.08
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Basic EPS",
+    "value": 6.11
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Diluted NI Availto Com Stockholders",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Income Common Stockholders",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Income",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Income Including Noncontrolling Interests",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Net Income Continuous Operations",
+    "value": 93736000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Tax Provision",
+    "value": 29749000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Pretax Income",
+    "value": 123485000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Income Expense",
+    "value": 269000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Other Non Operating Income Expenses",
+    "value": 269000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Operating Income",
+    "value": 123216000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Operating Expense",
+    "value": 57467000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Research And Development",
+    "value": 31370000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Selling General And Administration",
+    "value": 26097000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Gross Profit",
+    "value": 180683000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Cost Of Revenue",
+    "value": 210352000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Total Revenue",
+    "value": 391035000000.0
+  },
+  {
+    "year": 2024,
+    "finance_parameter": "Operating Revenue",
+    "value": 391035000000.0
+  }
+]
