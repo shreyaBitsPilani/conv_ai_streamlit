@@ -109,8 +109,22 @@ def clean_financial_statements(statements: dict) -> str:
 # 3) Chunking
 ########################################
 
+def get_sentences(text: str) -> list:
+    """
+    Attempt to load the 'punkt_tab' tokenizer.
+    If not available, download and load the standard 'punkt' tokenizer.
+    """
+    try:
+        # Try loading punkt_tab (if available)
+        tokenizer = nltk.data.load("tokenizers/punkt_tab/english.pickle")
+    except LookupError:
+        nltk.download("punkt", quiet=True)
+        tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
+    return tokenizer.tokenize(text)
+
 def split_text_semantic(text: str, max_words=150, overlap_sentences=2, min_words=30) -> list:
-    sentences = nltk.sent_tokenize(text)
+    # Use our custom get_sentences function instead of nltk.sent_tokenize
+    sentences = get_sentences(text)
     chunks = []
     cur_chunk = []
     cur_word_count = 0
@@ -127,16 +141,15 @@ def split_text_semantic(text: str, max_words=150, overlap_sentences=2, min_words
             cur_chunk = cur_chunk[-overlap_sentences:]
             cur_word_count = sum(len(s.split()) for s in cur_chunk)
 
-    # leftover
     if cur_chunk:
         chunk_text = " ".join(cur_chunk)
         if len(chunk_text.split()) >= min_words:
             chunks.append(chunk_text)
 
-    # Optional: Save chunks
     with open(os.path.join(DATA_FOLDER, "text_chunks.pkl"), "wb") as f:
         pickle.dump(chunks, f)
     return chunks
+
 
 ########################################
 # 4) BM25
