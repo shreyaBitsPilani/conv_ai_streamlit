@@ -9,3 +9,4 @@ sentence-transformers
 transformers
 torch==2.2.0
 setuptools>=65.5.0
+faiss-cpu
