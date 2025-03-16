@@ -2,7 +2,7 @@ streamlit
 yfinance
 nltk
 pandas
-numpy==1.24.3
+numpy
 scikit-learn
 rank_bm25
 sentence-transformers
