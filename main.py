@@ -5,7 +5,7 @@ import torch
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 import nltk
 nltk.download("punkt")
-
+nltk.download('punkt_tab')
 # Import your utility functions
 from utils import (
     load_and_save_financial_statements,
