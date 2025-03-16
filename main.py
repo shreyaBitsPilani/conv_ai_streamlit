@@ -1,6 +1,7 @@
 import os
 import streamlit as st
 import torch
+import numpy
 # We disable parallel tokenization to prevent concurrency issues
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 import nltk
